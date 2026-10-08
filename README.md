@@ -31,13 +31,24 @@ I offer a comprehensive training programs in data analysis, visualization and da
 <table>
   <tbody>
     <tr>
-      <td> </td>
+      <td>Email:</td>
       <td><a href = "mailto:emmanuelbaba1999@gmail.com">emmanuelbaba1999@gmail.com</a></td>
-      <a href="Emmanuel_RESUME.pdf">My Resume(pdf file)</a>
-    **Phone Number** [09018511136, 09035637771]
-        **Address** [Abuja FCT]
-          **Resume***[]
-              **Linkedin** [://linkedin.com/in/emmanuel-baba-otu-8244b6163](https://://linkedin.com)
-
-
-
+    </tr>
+    <tr>
+      <td>Phone Number:</td>
+      <td>(234) 901 851 1136, 903 563 7771</td>
+    </tr>
+    <tr>
+      <td>Address</td>
+      <td>FCT, Abuja </td>
+    </tr>
+    <tr>
+      <td>Linkedin</td>
+      <td><a href="https://://linkedin.com/in/emmanuel-baba-otu-8244b6163">the things I do daily on linkedin</a><td>
+    </tr>
+    <tr>
+      <td>Youtube channel</td>
+      <td><a href=""</a><td>
+    </tr>
+  </tbody>
+</table>
