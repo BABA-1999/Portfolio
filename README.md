@@ -26,11 +26,12 @@ I offer a comprehensive training programs in data analysis, visualization and da
 <a href ="Emmanuel_RESUME.pdf">download the full report here(pdf file)</a>
 
 ## CONTACT DETAILS:
-emmanuelbaba1999@gmail.com
-09018511136, 09035637771
-Abuja FCT
-<a href ="Emmanuel_RESUME.pdf">My Resume(pdf file)</a>
-[Read.more](linkedin.com/in/emmanuel-baba-otu-8244b6163)
+
+**Email** [emmanuelbaba1999@gmail.com]
+**Phone Number** [09018511136, 09035637771]
+**Address** [Abuja FCT]
+**Resume***[<a href ="Emmanuel_RESUME.pdf">My Resume(pdf file)</a>]
+**Linkedin** [://linkedin.com/in/emmanuel-baba-otu-8244b6163](https://://linkedin.com)
 
 
 
