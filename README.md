@@ -49,5 +49,3 @@ I offer a comprehensive training programs in data analysis, visualization and da
       <td>Youtube channel</td>
       <td><a href=""</a><td>
     </tr>
-  </tbody>
-</table>
