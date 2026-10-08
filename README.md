@@ -20,3 +20,5 @@ I offer a comprehensive training programs in data analysis, visualization and da
 
 **Sales Analysis dashboard.**
 ![image]()
+
+[Read.more]()
