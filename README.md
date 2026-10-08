@@ -22,3 +22,5 @@ I offer a comprehensive training programs in data analysis, visualization and da
 ![image]()
 
 [Read.more]()
+
+<a href ="Emmanuel_RESUME.pdf">download the full report here(pdf file)</a>
