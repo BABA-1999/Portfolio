@@ -27,11 +27,17 @@ I offer a comprehensive training programs in data analysis, visualization and da
 
 ## CONTACT DETAILS:
 
-**Email** [emmanuelbaba1999@gmail.com]
-**Phone Number** [09018511136, 09035637771]
-**Address** [Abuja FCT]
-**Resume***[<a href ="Emmanuel_RESUME.pdf">My Resume(pdf file)</a>]
-**Linkedin** [://linkedin.com/in/emmanuel-baba-otu-8244b6163](https://://linkedin.com)
+*Let's connect and see how we can make a difference together*
+<table>
+  <tbody>
+    <tr>
+      <td> </td>
+      <td><a href = "mailto:emmanuelbaba1999@gmail.com">emmanuelbaba1999@gmail.com</a></td>
+      <a href="Emmanuel_RESUME.pdf">My Resume(pdf file)</a>
+    **Phone Number** [09018511136, 09035637771]
+        **Address** [Abuja FCT]
+          **Resume***[]
+              **Linkedin** [://linkedin.com/in/emmanuel-baba-otu-8244b6163](https://://linkedin.com)
 
 
 
