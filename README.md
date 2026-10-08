@@ -11,10 +11,10 @@ As the Founder of Tech_Baba solutions Ltd, I Provide consulting and training ser
 
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes and drive business growth.
 
-## TRAINING AND DEVELOPMENT
+## SERVICES
 I offer a comprehensive training programs in data analysis, visualization and data-driven decision-making. from beginner to advanced levels.
 
-## MY PORTFOLIO
+## MY PROJECTS
 
 *A Glimpse of some of the projects I have worked on.*
 
