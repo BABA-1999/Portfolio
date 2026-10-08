@@ -44,8 +44,7 @@ I offer a comprehensive training programs in data analysis, visualization and da
     </tr>
     <tr>
       <td>Linkedin</td>
-      <td><a href="https://://linkedin.com/in/emmanuel-baba-otu-8244b6163">the things I do daily on linkedin</a><td>
-    </tr>
+      <td><a href="https://://linkedin.com/in/emmanuel-baba-otu-8244b6163">the things I do daily on linkedin </a><td>
     <tr>
       <td>Youtube channel</td>
       <td><a href=""</a><td>
