@@ -20,7 +20,10 @@ I offer a comprehensive training programs in data analysis, visualization and da
 
 **Sales Analysis dashboard.**
 ![image]()
+[Read.more]()
+
 **Customer Churn Analysis.**
+![image]()
 [Read.more]()
 
 <a href ="Emmanuel_RESUME.pdf">download the full report here(pdf file)</a>
